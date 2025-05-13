@@ -1,5 +1,5 @@
-📘 Learn HTML in 7 Days
-Welcome to Learn HTML in 7 Days — a beginner-friendly crash course to master the basics of HTML in just one week!
+📘 Learn HTML in 15 Days
+Welcome to Learn HTML in 15 Days — a beginner-friendly crash course to master the basics of HTML in just one week!
 
 This repository is designed to help absolute beginners get up and running with HTML through hands-on exercises, daily lessons, and mini-projects. Whether you're starting from scratch or need a quick refresher, this course is for you.
 
